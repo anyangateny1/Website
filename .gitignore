@@ -48,4 +48,15 @@ tmp/
 *.bak
 
 # Test coverage
-coverage/ 
+coverage/
+
+# Legacy / local-only content not needed on GitHub
+/__MACOSX/
+/Webpage/
+/META-INF/
+/backend/META-INF/
+/backend/temp/
+/backend/target/
+
+# Local deployment helpers and secrets
+deployment-scripts/
