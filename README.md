@@ -1,9 +1,9 @@
 # Personal Website
 
-This repo contains the source code for my personal site (`atenyanyang.com`):
+This parent repo contains the source code/sub repos for my personal site (`atenyanyang.com`):
 
 - **Frontend**: Single-page React app (Chakra UI, React Router) in `frontend/`
-- **Backend**: Java serverless API (AWS Lambda via Maven) in `backend/`
+- **Backend**: Go serverless API (AWS Lambda via API Gateway) in `backend/`
 
 Used primarily to play around with AWS and a web dev stack.
 
